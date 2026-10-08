@@ -1,6 +1,6 @@
 # Task 2: Recommender System
 
-Bu klasör, bir öneri sistemi uygulamasını içerir:
+This folder contains a recommendation system implementation:
 - Content-Based Filtering
 - Collaborative Filtering
-- Heuristic (kural tabanlı) yaklaşımlar
+- Heuristic (rule-based) approaches
